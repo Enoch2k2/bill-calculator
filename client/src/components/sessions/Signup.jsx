@@ -41,8 +41,6 @@ const Signup = () => {
     onSubmit: handleSubmit
   });
 
-
-
   return (
     <Container maxwidth="md" className={ classes.container }>
       <h2>Create Account</h2>
